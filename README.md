@@ -5,16 +5,16 @@
 Eleria OS is a next-generation operating system based on Debian 12. Using X11 paired with an edited Chromium, your whole desktop is made of one single HTML file. *ONE.*
 
 ## Minimum Requirenments
-1. Intel or AMD x86-64 64-bit CPU
+1. Intel Core i3 5th Generation or similar
 2. RAM: 2GB Minimum
-3. Storage: 5GB Free
+3. Storage: 7GB Free
 4. Firmware/Boot: UEFI
 5. Secure Boot: Not Supported (Must be disabled in BIOS)
-6. Graphics: TBD
+6. Graphics: Regular Intergrated Graphics
 7. Flash Drive Size: 4GB
 
 ## Recommended Requirenments
-1. Intel or AMD x86-64 64-bit CPU (AMD64)
+1. Intel Core i9 10th Generation or similar
 2. RAM: 8GB Recommended
 3. Storage: 20GB or more for optimal space
 4. Firmware/Boot: UEFI
