@@ -2,7 +2,7 @@
 **Your space. Your flow.**
 
 ## What is Eleria OS?
-Eleria OS is a next-generation operating system based on Debian 12. Using X11 paired with an edited Chromium, your whole desktop is made of one single HTML file. *ONE.*
+Eleria OS is a next-generation operating system based on Debian 13 Trixie. Using X11 paired with an edited Chromium, your whole desktop is made of one single HTML file. *ONE.*
 
 ## Minimum Requirenments
 1. Intel Core i3 5th Generation or similar
