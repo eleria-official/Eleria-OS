@@ -25,10 +25,10 @@ Eleria OS is a next-generation operating system based on Debian 13 Trixie. Using
 
 # How To Install on Real Hardware
 1. Download our latest release of Eleria OS from this repo.
-2. Go through the Debian 12 Installation or try it Live. (Make sure to remember your username and password during setup.)
+2. Go through the Debian 13 Installation or try it Live. (Make sure to remember your username and password during setup.)
 3. Once installation finishes, restart your computer.
 4. If Wi-Fi does not work, contact the following email with your Wi-Fi card so we can add support: eleriaofficial@proton.me
-5. Log-in with your credentials from setup. You will be booted into Eleria OS.
+5. You will be automatically signed in by Debian, loading into Eleria when it asks for your password from setup.
 
 # How To Install in a Virtual Machine
 1. Download our latest release of Eleria OS from this repo.
@@ -36,4 +36,4 @@ Eleria OS is a next-generation operating system based on Debian 13 Trixie. Using
 3. Give it 4GB/8GB of RAM, as many CPU cores as you want, and as much display memory as you can do, with Graphics Acceleration (if possible).
 4. Install it like normal or try it Live.
 5. Wi-Fi Should Automatically Work.
-6. Log-in with your credentials from setup. You will be booted into Eleria OS.
+6. You will be automatically signed in by Debian, loading into Eleria when it asks for your password from setup.
