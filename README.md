@@ -4,6 +4,16 @@
 ## What is Eleria OS?
 Eleria OS is a next-generation operating system based on Debian 13 Trixie. Using X11 paired with an edited Chromium, your whole desktop is made of one single HTML file. *ONE.*
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=eleria-official%2Feleria-os&type=date&releases=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=eleria-official/eleria-os&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=eleria-official/eleria-os&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=eleria-official/eleria-os&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
 ## Minimum Requirenments
 1. Intel Core i3 5th Generation or similar
 2. RAM: 2GB Minimum
